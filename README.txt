@@ -60,5 +60,9 @@ Strategic Decision-Making: A data-driven foundation to help drive sales strategi
 
 Enhanced Sales Strategy: A refined approach to understanding sales trends, allowing for better inventory management and targeted marketing strategies.
 
+🧑‍💻 Author:
 
+Deepanshu Gupta
+
+🌐 GitHub: Deepanshu1194
 
