@@ -1,5 +1,9 @@
 # 📊 GBC Superstore Sales Analysis Project
 
+🎯 Project Objective:
+
+The goal is to create insightful business reports that help stakeholders make data-driven decisions by analyzing sales, profit margins, and shipping efficiency.
+
 This project involves designing and implementing a comprehensive data analysis pipeline for the GBC Superstore sales dataset. Leveraging ETL (Extract, Transform, Load) processes, the project focuses on cleaning and transforming large datasets to extract meaningful patterns using MySQL. The final deliverables include operational and executive-level reports that provide actionable insights for strategic decision-making and enhanced sales strategies.
 
 📂 Project Structure:
@@ -56,7 +60,5 @@ Strategic Decision-Making: A data-driven foundation to help drive sales strategi
 
 Enhanced Sales Strategy: A refined approach to understanding sales trends, allowing for better inventory management and targeted marketing strategies.
 
-🎯 Project Objective:
 
-The goal is to create insightful business reports that help stakeholders make data-driven decisions by analyzing sales, profit margins, and shipping efficiency.
 
